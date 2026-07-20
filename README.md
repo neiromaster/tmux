@@ -48,7 +48,7 @@ $ cd tmux
 $ stow --target="$HOME" tmux
 ```
 
-💡 You can clone the repository anywhere and then do a stow 
+💡 You can clone the repository anywhere and then do a stow
 for the tmux directory as in the example above:
 
 ```shell
